@@ -1,23 +1,15 @@
-# 👋 Oi eu sou o @gustavorteuber, Estou em busca de me tornar um desenvolvedor melhor!
-- 🤖 Desenvolvedor Full-Stack com preferencia no Back-end
-- 🌙 Eu adoro utilizar Django nos meus projetos!
-- 📗 Formado como IT no Instituto Federal Catarinense e estudando Analise e Desenvolvimento de Sistemas.
-- 🙌 Em busca de novos desafios!
-
-
-<hr/>
-
 
 **Sobre mim**
 
 - 🤖 Desenvolvedor Full-Stack com preferencia no Back-end
-- 
+ 
 - 🌙 Eu adoro utilizar Django nos meus projetos!
-- 
+ 
 - 📗 Formado como IT no Instituto Federal Catarinense e estudando Analise e Desenvolvimento de Sistemas.
-- 
+ 
 - 🙌 Em busca de novos desafios!
 
+<br>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
