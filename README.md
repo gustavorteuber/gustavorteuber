@@ -31,9 +31,8 @@
   
 </div>
 </div>
-
-<div align="center">
 #### Top Repositories
+<div align="center">
 <a href="https://github.com/gustavorteuber/criazap-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=buefy" />
 </a>
