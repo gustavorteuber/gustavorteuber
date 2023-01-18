@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/gustavorteuber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorteuber&layout=compact&langs_count=7&theme=swift"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorteuber&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 
 <div align="center">
@@ -37,10 +37,10 @@
  
 <div align="center">
 <a href="https://github.com/gustavorteuber/criazap-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=buefy" />
 </a>
 <a href="https://github.com/gustavorteuber/frontend-ifdog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=buefy" />
 </a>
 </div>
 
