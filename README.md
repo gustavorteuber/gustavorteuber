@@ -31,7 +31,10 @@
   
 </div>
 </div>
- 
+
+<br />
+<br />
+
  
 <div align="center">
 <a href="https://github.com/gustavorteuber/criazap-frontend">
