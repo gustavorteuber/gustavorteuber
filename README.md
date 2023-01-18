@@ -9,8 +9,7 @@
  
 - 🙌 Em busca de novos desafios!
 
-<br>
-
+<div align="center">
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           
@@ -25,37 +24,15 @@
   
   
 </div>
-
-| <a href="https://github.com/gustavorteuber"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gustavorteuber"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/gustavorteuber/frontend-ifdog">
-  <img align="center" src="https://github.com/frontend-ifdog?username=gustavorteuber&repo=frontend-ifdog&theme=dracula" />
-</a>
-<a href="https://github.com/gustavorteuber/criazap-frontend">
-  <img align="center" src="https://github.com/criazap-frontend?username=gustavorteuber&repo=criazap-frontend&theme=dracula" />
-</a>
-
-<br />
-<br />
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          
-  <img align="center" alt="bru-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bru-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bru-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
-  
-  
 </div>
+
+
+
+
+<br />
+<br />
+
+
 
 ##
 
