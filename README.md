@@ -34,14 +34,14 @@
 
 #### Top Repositories
 
-
+<div align="center">
 <a href="https://github.com/gustavorteuber/criazap-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=buefy" />
 </a>
 <a href="https://github.com/gustavorteuber/frontend-ifdog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=buefy" />
 </a>
-
+</div>
 
 <br />
 <br />
