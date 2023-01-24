@@ -25,9 +25,11 @@
     <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
- <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />
+  
  
   
   
