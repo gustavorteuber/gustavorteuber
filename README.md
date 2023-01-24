@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/gustavorteuber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorteuber&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorteuber&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <div align="center">
@@ -27,6 +27,8 @@
   <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
+ <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+ 
   
   
 </div>
@@ -37,10 +39,10 @@
  
 <div align="center">
 <a href="https://github.com/gustavorteuber/criazap-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=vue-dark" />
 </a>
 <a href="https://github.com/gustavorteuber/frontend-ifdog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=vue-dark" />
 </a>
 </div>
 
