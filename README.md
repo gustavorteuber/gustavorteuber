@@ -29,7 +29,6 @@
   <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
- <img align="center" alt="Tailwind" height="30" width="40" src="https://icongr.am/devicon/tailwind-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Linux" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />
   
  
