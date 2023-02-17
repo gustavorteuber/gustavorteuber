@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/gustavorteuber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorteuber&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorteuber&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
@@ -40,11 +40,11 @@
 
  
 <div align="center">
-<a href="https://github.com/gustavorteuber/criazap-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=vue-dark" />
+<a href="https://github.com/gustavorteuber/proative-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=tokyonight" />
 </a>
 <a href="https://github.com/gustavorteuber/frontend-ifdog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=tokyonight" />
 </a>
 </div>
 
