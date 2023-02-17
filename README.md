@@ -3,9 +3,9 @@
 
 - 🤖 Desenvolvedor Full-Stack com preferencia no Back-end
  
-- 🌙 Eu adoro utilizar Django nos meus projetos!
+- 🌙 Eu adoro utilizar Django e TailwindCSS nos meus projetos!
  
-- 📗 Formado como IT no Instituto Federal Catarinense e estudando Analise e Desenvolvimento de Sistemas.
+- 📗 Formado como IT no Instituto Federal Catarinense.
  
 - 🙌 Em busca de novos desafios!
 
