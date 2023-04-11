@@ -19,7 +19,8 @@
   <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="Arch Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg"/> 
+  <img align="center" alt="Arch Linux" height="30" width="40" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
+
 
 
 ##
