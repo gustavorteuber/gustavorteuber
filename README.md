@@ -29,16 +29,6 @@
 
 <br />
 
- 
-<div align="center">
-<a href="https://github.com/gustavorteuber/proative-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=github_dark" />
-</a>
-<a href="https://github.com/gustavorteuber/frontend-ifdog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=github_dark" />
-</a>
-</div>
-
 <br />
 
 
