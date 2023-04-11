@@ -9,11 +9,19 @@
  
 - 🙌 Em busca de novos desafios!
 
-<div align="center">
-  <a href="https://github.com/gustavorteuber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorteuber&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+:)
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gustavorteuber/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gustavorteuber/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+   <img src="https://github.com/gustavorteuber/stats/blob/master/generated/overview.svg#gh-light-mode-only">
+</picture>
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gustavorteuber/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gustavorteuber/stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+   <img src="https://github.com/gustavorteuber/stats/blob/master/generated/languages.svg#gh-light-mode-only">
+</picture>
 
 <div align="center">
 <div style="display: inline_block" align="center"><br>
