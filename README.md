@@ -39,15 +39,20 @@
 
 <br />
 
- 
-<div align="center">
-<a href="https://github.com/gustavorteuber/proative-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=criazap-frontend&theme=github_dark" />
-</a>
-<a href="https://github.com/gustavorteuber/frontend-ifdog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavorteuber&repo=frontend-ifdog&theme=github_dark" />
-</a>
-</div>
+:)
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gustavorteuber/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gustavorteuber/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+   <img src="https://github.com/gustavorteuber/stats/blob/master/generated/overview.svg#gh-light-mode-only">
+</picture>
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gustavorteuber/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/gustavorteuber/stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+   <img src="https://github.com/gustavorteuber/stats/blob/master/generated/languages.svg#gh-light-mode-only">
+</picture>
+
 
 <br />
 
