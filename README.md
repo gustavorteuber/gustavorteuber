@@ -13,7 +13,7 @@
 <img align="center" alt="Tailwind CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 <img align="center" alt="bru-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ff2d20" />
-<img align="center" alt="Ext JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/extjs/extjs-original.svg">
+<img align="center" alt="Ext JS" height="30" width="30" src="https://cdn.sencha.com/img/branding/extjs/icon-logo.png">
 <img align="center" alt="Vue.js" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
 <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
 <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
