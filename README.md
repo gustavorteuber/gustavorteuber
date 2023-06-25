@@ -1,9 +1,4 @@
 forget :)
-## Node.js & Python Software Engineer </br>
-<ul>
-<li>Typescript & Vue Enthusiast </br> </li>
-<li>Profissional Profile. </li>
-</ul>
 
 <div align="center">
   <a href="https://github.com/gustavorteuber">
@@ -27,12 +22,4 @@ forget :)
 <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
 <img align="center" alt="Arch Linux" height="30" width="30" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
 
-##
-
-<div align="center"> 
-  
- <a href="https://instagram.com/gustavorteuber/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
- 
-</div>
    
