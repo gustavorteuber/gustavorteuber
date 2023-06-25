@@ -1,4 +1,10 @@
 forget :)
+## Node.js & Python Software Engineer </br>
+<ul>
+<li>Typescript & Vue Enthusiast </br> </li>
+<li>Profissional Profile. </li>
+</ul>
+
 <div align="center">
   <a href="https://github.com/gustavorteuber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
