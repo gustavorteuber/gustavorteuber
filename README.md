@@ -1,10 +1,11 @@
 forget :)
 
-<div align="center">
-  <a href="https://github.com/gustavorteuber">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorteuber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorteuber&layout=compact&langs_count=7&theme=radical"/>
-</div>
+# I am a developer who loves creating all kinds of things!
+
+Independent developer currently studying computer science
+
+Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications, I work with the stacks below
+I am open to new projects, contact me!
 
 <div align="center">
 <div style="display: inline_block" align="center"><br>
