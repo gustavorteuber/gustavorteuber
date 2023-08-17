@@ -7,7 +7,7 @@ Independent developer currently studying computer science
 Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications, I work with the stacks below
 I am open to new projects, contact me!
 
-<div style="display: inline_block" align="center"><br>
+<br>
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="bru-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
