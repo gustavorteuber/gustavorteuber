@@ -1,13 +1,14 @@
 forget :)
 
-# I am a developer who loves creating all kinds of things!
+# I'm a developer who loves challenges!
 
 Independent developer currently studying computer science
 
 Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications, I work with the stacks below
 I am open to new projects, contact me!
 
-<br>
+<div align="center">
+<div style="display: inline_block" align="center"><br>
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="bru-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
