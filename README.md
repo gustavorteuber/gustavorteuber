@@ -21,7 +21,7 @@ I am open to new projects, contact me!
 <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
 <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
 <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/codeigniter-original.svg?size=128&color=currentColor" />
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/codeigniter.svg?size=128&color=currentColor" />
 <img align="center" alt="Arch Linux" height="30" width="30" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
 
    
