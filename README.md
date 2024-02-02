@@ -2,7 +2,7 @@ shenanigans :)
 
 # I'm a developer who loves challenges!
 
-Independent developer currently studying computer science
+Independent developer currently studying System Informations
 
 Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications, I work with the stacks below
 I am open to new projects, contact me!
