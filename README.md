@@ -1,6 +1,6 @@
 shenanigans :)
 
-# I'm a developer who loves challenges!
+# I`am a developer who is not afraid of challenges!
 
 Independent developer currently studying System Informations
 
