@@ -2,7 +2,7 @@ shenanigans :)!
 
 # I`am a developer who is not afraid of challenges!
 
-Independent developer currently studying System Informations
+Independent developer currently studying Bachelor in System Informations in Federal Institute
 
 Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications, I work with the stacks below
 I am open to new projects, contact me!
