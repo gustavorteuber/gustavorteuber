@@ -1,4 +1,4 @@
-i have family now..
+i have family now...
 
 # I`am a developer who is not afraid of challenges!
 
