@@ -24,5 +24,7 @@ I am open to new projects, contact me!
 <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
 <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" />
 <img align="center" alt="Arch Linux" height="30" width="30" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
+<img align="center" alt="Jenkins" height="30" width="30" src="https://icongr.am/devicon/jenkins-original.svg?size=128&color=currentColor"/>
+
 
    
