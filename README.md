@@ -1,4 +1,4 @@
-i have family now...
+praise the lord.   
 
 # I`am a developer who is not afraid of challenges!
 
