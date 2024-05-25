@@ -1,4 +1,4 @@
-praise the lord.   
+praise the lord
 
 <h3>I`am a developer who is not afraid of challenges!</h3>
 
