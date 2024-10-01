@@ -1,9 +1,8 @@
-gustavorteuber!
 <h3>I`am a developer who is not afraid of challenges!</h3>
 
-Independent developer currently coursing Bachelor in System Informations in Federal Institute
-Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications, I work with the stacks below
-I am open to new projects, contact me!
+Independent developer currently coursing Bachelor in System Informations in Federal Institute. 
+Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications
+M&A in Florida Atlantic University in progress.
 
 <div style="display: inline_block">
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
