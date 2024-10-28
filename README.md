@@ -1,4 +1,4 @@
-<h3>Bold developer, innovative and results-driven.!</h3>
+<h3>Bold developer, innovative and results-driven.</h3>
 
 Independent developer currently coursing Bachelor in System Informations in Federal Institute. 
 Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications
