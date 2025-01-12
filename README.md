@@ -1,8 +1,6 @@
 <h3>Bold developer, innovative and results-driven.</h3>
 
-Independent developer currently coursing Bachelor in System Informations in Federal Institute. 
-Graduated from the Federal Institute of Santa Catarina as a computer technician with a specification in the development of web-applications
-M&A in Florida Atlantic University in progress.
+Independent developer currently pursuing a Bachelor's degree in Information Systems at the Federal Institute. Graduated as a Computer Technician with a specialization in web application development from the Federal Institute of Santa Catarina. Currently enrolled in a Stock Market and Mergers & Acquisitions (M&A) course at Florida Atlantic University (FAU).
 
 <div style="display: inline_block">
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
