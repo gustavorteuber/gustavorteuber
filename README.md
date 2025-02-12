@@ -21,6 +21,7 @@ Independent developer currently pursuing a Bachelor's degree in Information Syst
 <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" />
 <img align="center" alt="Arch Linux" height="30" width="30" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
 <img align="center" alt="Jenkins" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
+<img align="center" alt="AWS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-plain.svg"/>
 </div>
 
 
