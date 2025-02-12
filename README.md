@@ -1,4 +1,4 @@
-<h3>Bold developer, innovative and results-driven.</h3>
+<h3>creator.</h3>
 
 Independent developer currently pursuing a Bachelor's degree in Information Systems at the Federal Institute. Graduated as a Computer Technician with a specialization in web application development from the Federal Institute of Santa Catarina. Currently enrolled in a Stock Market and Mergers & Acquisitions (M&A) course at Florida Atlantic University (FAU).
 
