@@ -1,6 +1,6 @@
 <h3>Bold and ambitious programmer driven by success</h3>
 
-Independent developer currently pursuing a Bachelor's degree in Information Systems at the Federal Institute. Graduated as a Computer Technician with a specialization in web application development from the Federal Institute of Santa Catarina. Co-founder of "Leilões do Brasil" the largest auction aggregator in Brazil
+Independent developer currently pursuing a Bachelor's degree in Information Systems at the Federal Institute. Graduated as a Computer Technician with a specialization in web application development from the Federal Institute of Santa Catarina. Co-founder of "Leilões do Brasil" the largest auction aggregator in Brazil, Solanis AI Creator.
 
 <div style="display: inline_block">
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
