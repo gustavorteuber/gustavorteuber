@@ -1,4 +1,4 @@
-<h3>killaz.</h3>
+<h3>apotheosis</h3>
 
 Independent developer currently pursuing a Bachelor's degree in Information Systems at the Federal Institute. Graduated as a Computer Technician with a specialization in web application development from the Federal Institute of Santa Catarina. Co-founder of "Leilões do Brasil" the largest auction aggregator in Brazil, Solanis AI Creator.
 
