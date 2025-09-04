@@ -10,11 +10,11 @@ Independent developer currently pursuing a Bachelor's degree in Information Syst
 <img align="center" alt="bru-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Tailwind CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 <img align="center" alt="bru-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Langchain" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg">
 <img align="center" alt="node" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ff2d20" />
 <img align="center" alt="Vue.js" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
 <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+<img align="center" alt="Langchain" height="30" width="40" src="https://icongr.am/devicon/langchain-original.svg?size=128&color=currentColor" />
 <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
 <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
 <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
