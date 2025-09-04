@@ -14,7 +14,6 @@ Independent developer currently pursuing a Bachelor's degree in Information Syst
 <img align="center" alt="Laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ff2d20" />
 <img align="center" alt="Vue.js" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
 <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
-<img align="center" alt="Langchain" height="30" width="40" src="https://icongr.am/devicon/langchain-original.svg?size=128&color=currentColor" />
 <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
 <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
 <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
