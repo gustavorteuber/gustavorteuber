@@ -23,10 +23,3 @@ Independent developer currently pursuing a Bachelor's degree in Information Syst
 <img align="center" alt="Jenkins" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
 </div>
 
-```bash
-> whoami
-software architect
-
-> work --status
-🚀 Building Leilões do Brasil & Solanis.ai
-> echo "forget"
