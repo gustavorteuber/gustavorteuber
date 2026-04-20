@@ -2,7 +2,7 @@
 
 Independent developer currently pursuing a Bachelor's degree in Information Systems at the Federal Institute. Graduated as a Computer Technician with a specialization in web application development from the Federal Institute of Santa Catarina. Co-founder of "Leilões do Brasil" the largest auction aggregator in Brazil, Solanis AI Creator.
 
-<div style="display: inline_block">
+<p align="left">
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,5 +21,5 @@ Independent developer currently pursuing a Bachelor's degree in Information Syst
 <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" />
 <img align="center" alt="Arch Linux" height="30" width="30" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"/>
 <img align="center" alt="Jenkins" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>
-</div>
+</p>
 
