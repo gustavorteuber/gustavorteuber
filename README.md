@@ -1,6 +1,12 @@
-<h3>mvp</h3>
+<h3>get rich or die trying</h3>
 
-Independent developer currently pursuing a Bachelor's degree in Information Systems at the Federal Institute. Graduated as a Computer Technician with a specialization in web application development from the Federal Institute of Santa Catarina. Co-founder of "Leilões do Brasil" the largest auction aggregator in Brazil, Solanis AI Creator.
+I build what happens behind the scenes.
+
+Creator of **Solanis.ai** — turning ideas into AI systems and products for companies like **Pichau, Positivo, and RHBrasil**.
+Most of my projects start with “I wonder if I can…”
+
+Then I disappear down the rabbit hole.
+
 
 <p>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
