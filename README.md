@@ -1,8 +1,6 @@
-<h3>get rich or die trying</h3>
+<h3>I build what powers the brands you know.</h3>
 
-I build what happens behind the scenes.
-
-Creator of **Solanis.ai** — turning ideas into AI systems and products for companies like **Pichau, Positivo, and RHBrasil**.
+Creator of **[Solanis.ai](https://solanis.ai)** — turning ideas into AI systems and products for companies like **Positivo, Pichau, Valorem, NewTech, CDL, RHBrasil and others**.
 Most of my projects start with “I wonder if I can…”
 
 Then I disappear down the rabbit hole.
